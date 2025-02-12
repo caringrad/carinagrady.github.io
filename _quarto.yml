@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Carina Grady"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: interests.qmd
+        text: Interests
+      - text: Portfolio
+        menu:
+          - href: portfolio-academic.qmd
+            text: Academic
+          - href: portfolio-professional.qmd
+            text: Professional
+          - href: portfolio-creative.qmd
+            text: Creative Arts
+      - href: contact.qmd
+        text: Contact
+format:
+  html:
+    theme: cosmo 
+    toc: true  
