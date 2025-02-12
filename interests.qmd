@@ -1,0 +1,7 @@
+---
+title: "Interests"
+format: html
+editor: visual
+---
+
+my interests

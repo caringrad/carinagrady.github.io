@@ -1,0 +1,7 @@
+---
+title: "Carina Grady on the Internet"
+format: html
+editor: visual
+---
+
+Welcome! name, profession, purpose
