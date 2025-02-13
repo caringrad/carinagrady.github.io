@@ -1,7 +1,13 @@
 ---
-title: "Carina Grady on the Internet"
+title: "Welcome!"
 format: html
-editor: visual
+toc: false
 ---
 
-Welcome! name, profession, purpose
+# Bridging Data, Community, and Creativity
+
+Hey there! I'm **Carina Grady**—an engineer, data analyst, and community advocate who loves bringing people and ideas together. My work blends technical expertise with creative expression and civic engagement, whether I'm analyzing data to support my client projects, brainstorming ways to strengthen my city's local businesses, or engaging in deep discussions with my local community.
+
+I believe data can tell powerful stories, but so can movement, words, and human connection. That's why, outside of my work in consulting and analytics, you'll find me immersed in the arts—writing, reading, or attending events that bring my city to life. I love a good deep-dive into analytics just as much as I love a lively dance floor or a compelling poem.
+
+This site is a reflection of all those things: **data, creativity, and community**. Take a look around, and if something sparks an idea, let's connect!
