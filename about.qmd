@@ -1,7 +1,9 @@
 ---
 title: "About Me"
+title-block-banner: true
 format: html
 toc: false
+css: styles.css
 ---
 
 # Engineer. Analyst. Community Builder. Creative Mind.

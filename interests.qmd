@@ -1,7 +1,9 @@
 ---
 title: "Interests"
+title-block-banner: true
 format: html
 editor: visual
+css: styles.css
 ---
 
 my interests

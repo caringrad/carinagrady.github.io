@@ -1,7 +1,9 @@
 ---
 title: "Contact"
+title-block-banner: true
 format: html
 editor: visual
+css: styles.css
 ---
 
 contact info

@@ -1,7 +1,9 @@
 ---
 title: "Welcome!"
+title-block-banner: true
 format: html
 toc: false
+css: styles.css
 ---
 
 # Bridging Data, Community, and Creativity
