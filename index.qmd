@@ -24,3 +24,8 @@ Hey there! I'm **Carina Grady**—an engineer, data analyst, and community advoc
 I believe data can tell powerful stories, but so can movement, words, and human connection. That's why, outside of my work in consulting and analytics, you'll find me immersed in the arts—writing, reading, or attending events that bring my city to life. I love a good deep-dive into analytics just as much as I love a lively dance floor or a compelling poem.
 
 This site is a reflection of all those things: **data, creativity, and community**. Take a look around, and if something sparks an idea, let's connect!
+
+---
+
+This site is built entirely with [Quarto](https://quarto.org/) and R markdown!
+View the source code on [GitHub](https://github.com/caringrad/carinagrady.github.io).
