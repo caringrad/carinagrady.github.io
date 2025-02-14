@@ -2,19 +2,77 @@
 title: "Interests"
 title-block-banner: true
 format: html
+toc: true
 editor: visual
 css: styles.css
 execute:
   freeze: false
 ---
 
-I've always been drawn to the new and different: the ideas that push boundaries, challenge assumptions, and redefine what's possible. Whether it's uncovering patterns in data, questioning long-held beliefs in technology, or exploring the social forces that shape our world, I love the process of discovery. I'm drawn to understanding how things work—not just taking them at face value, but exploring different perspectives and possibilities to see what else might be there.
+# The Power of Interdisciplinary Thinking
 
-That's why I find myself at the intersection of engineering, analytics, and the humanities. I know it might not seem like the most obvious combination (after all, there is left brain and right brain; numbers and logic on one side, stories and human experience on the other), but to me, they're deeply connected.
+I've always been drawn to the **new and different**: the ideas that push boundaries, challenge assumptions, and redefine what's possible. Whether it's uncovering patterns in data, questioning long-held beliefs in technology, or exploring the social forces that shape our world, I love the process of discovery. I'm drawn to **understanding how things work**—not just taking them at face value, but exploring **different perspectives and possibilities** to see what else might be there.
 
-![Three-Way Venn Diagram for Humanities, Engineering, and Analytics](images/venndiagram.png){ width=500px }
+That's why I find myself at the intersection of **engineering, analytics, and the humanities**. I know it might not seem like the most obvious combination (after all, there is left brain and right brain; numbers and logic on one side, stories and human experience on the other), but to me, they're deeply connected.
+
+![Three-Way Venn Diagram for Humanities, Engineering, and Analytics](images/venndiagram.png){width="500px"}
 
 Engineering and analytics give us the tools to build and understand complex systems, from energy grids to economic models. But the humanities help us ask the right questions. They remind us that technology doesn't exist in a vacuum; it shapes and is shaped by people, culture, and history. To truly innovate, we need both—the precision of data and the depth of human insight.
 
-Data can reveal social truths that impacts every indiviudal, engineered solutions can be more effective when they consider human behavior, and storytelling and history can influence innovation. The world is built on connections between people, ideas, and disciplines. For me, the best way to make an impact is by embracing that interconnectedness, by considering what happens when we bring these fields together. This consideration fuels my curiosity, my work, and my passion for exploring the bigger picture.
+Data can reveal social truths that impacts every indiviudal, engineered solutions can be more effective when they consider human behavior, and storytelling and history can influence innovation. **The world is built on connections between people, ideas, and disciplines**. For me, the best way to make an impact is by embracing that **interconnectedness**, by considering what happens when we bring these fields together. This consideration fuels my curiosity, my work, and my passion for **exploring the bigger picture**.
 
+# [Engineering]{style="font-size: 1.75em;"}
+
+blurb on engineering
+
+## Thermodynamics
+
+blurb on thermo
+
+## Energy Systems
+
+blurb on energy systems
+
+## Electrical Grid
+
+blurb on grid
+
+# [Analytics]{style="font-size: 1.75em;"}
+
+blurb on analytics + graph
+
+## Systems Modeling
+
+blurb on systems thinking
+
+## Exploratory Data Analysis
+
+blurb on EDA, correlations/causations too, pivots
+
+## Machine Learning Models
+
+blurb on models
+
+## Regression
+
+blurb on regression
+
+# [Humanities]{style="font-size: 1.75em;"}
+
+blurb on humanities
+
+## Anthropology
+
+blurb on anthropology
+
+## Sociology
+
+blurb on sociology
+
+## Psychology
+
+blurb on psychology
+
+## Philosophy
+
+blurb on philosophy
