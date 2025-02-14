@@ -13,3 +13,5 @@ I've always been someone who finds patterns, whether in numbers, cities, or the 
 But life isn't just about logic and structure; **creativity and human connection** matter just as much to me. Outside of spreadsheets and strategy sessions, I'm dancing, writing, reading, and highly engaged with my local community. I love how art, music, and storytelling bring people together, and I try to infuse that same spirit of collaboration into everything I do—whether it's working on a community project, mentoring others in data analysis, or simply sharing a great conversation. I believe the strongest communities are built at the intersection of different disciplines, where data meets storytelling, and structure meets spontaneity.
 
 This site is a mix of everything I love—data, creativity, and community. Feel free to look around, and if you see something that sparks an idea, let's connect!
+
+![Also a fanatic alpaca enthusiast, featuring my favorite picture in Peru!](images/carinallamas.jpg){width="500px"}

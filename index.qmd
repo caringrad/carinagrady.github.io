@@ -4,6 +4,17 @@ title-block-banner: true
 format: html
 toc: false
 css: styles.css
+about:
+  template: solana
+  image: images/carinapicture.jpg
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://www.github.com/caringrad
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carina-grady/
 ---
 
 # Bridging Data, Community, and Creativity
