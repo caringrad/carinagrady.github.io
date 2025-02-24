@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Engineer. Analyst. Community Builder. Creative Mind.\nI’ve always been someone who finds patterns, whether in numbers, cities, or the ways people interact. My background is in engineering and data analytics, which means I spend a lot of time making sense of complex systems and turning data into insights. I’ve worked with national labs, energy consultants, and non-profit initiatives—all with the goal of making communities stronger and more sustainable. I love taking complex information, making sense of it, and using it to drive real change.\nBut life isn’t just about logic and structure; creativity and human connection matter just as much to me. Outside of spreadsheets and strategy sessions, I’m dancing, writing, reading, and highly engaged with my local community. I love how art, music, and storytelling bring people together, and I try to infuse that same spirit of collaboration into everything I do—whether it’s working on a community project, mentoring others in data analysis, or simply sharing a great conversation. I believe the strongest communities are built at the intersection of different disciplines, where data meets storytelling, and structure meets spontaneity.\nThis site is a mix of everything I love—data, creativity, and community. Feel free to look around, and if you see something that sparks an idea, let’s connect!\n\n\n\nAlso a fanatic alpaca enthusiast, featuring my favorite picture in Peru!"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "I’ve always been drawn to the new and different: the ideas that push boundaries, challenge assumptions, and redefine what’s possible. Whether it’s uncovering patterns in data, questioning long-held beliefs in technology, or exploring the social forces that shape our world, I love the process of discovery. I’m drawn to understanding how things work—not just taking them at face value, but exploring different perspectives and possibilities to see what else might be there.\nThat’s why I find myself at the intersection of engineering, analytics, and the humanities. I know it might not seem like the most obvious combination (after all, there is left brain and right brain; numbers and logic on one side, stories and human experience on the other), but to me, they’re deeply connected.\n\n\n\n\n\nEngineering and analytics give us the tools to build and understand complex systems, from energy grids to economic models. But the humanities help us ask the right questions. They remind us that technology doesn’t exist in a vacuum; it shapes and is shaped by people, culture, and history. To truly innovate, we need both—the precision of data and the depth of human insight.\nData can reveal social truths that impacts every individual, engineered solutions can be more effective when they consider human behavior, and storytelling and history can influence innovation. The world is built on connections between people, ideas, and disciplines. For me, the best way to make an impact is by embracing that interconnectedness, by considering what happens when we bring these fields together. This consideration fuels my curiosity, my work, and my passion for exploring the bigger picture."
+  },
+  {
+    "objectID": "interests.html#systems-thinking",
+    "href": "interests.html#systems-thinking",
+    "title": "Interests",
+    "section": "Systems Thinking",
+    "text": "Systems Thinking\nEngineers solve problems by designing systems. Whether it’s infrastructure, software, energy grids, or manufacturing, real-world engineering challenges aren’t isolated. They exist within immensely complex, interconnected systems, where one change can influence everything else.\nSystems thinking is a way of making sense of this complexity. Instead of just focusing on individual components, engineers look at how things interact, how information flows, and how small adjustments ripple through the entire system. Instead of focusing on individual parts, it’s about stepping back and looking at the bigger picture. Engineers ask:\n\nWhat are the key parts of this system?\nHow do they influence each other?\nWhat happens if something changes?\nHow can we optimize for efficiency, stability, or adaptability?\n\nMost engineering systems can be broken down into:\n\n\n\n\n\n\n\n\nComponent\nDefinition\nExample\n\n\n\n\nSystem\nThe entire structure with all its interconnected parts\nElectrical grid\n\n\nSubsystem\nA functional unit within the larger system\nPower generation, transmission, distribution\n\n\nUnit Type\nA specific element within a subsystem\nTurbine, transformer, solar panel\n\n\nOperations\nThe processes that keep the system running\nEnergy flow, load balancing, grid frequency regulation\n\n\n\nUnderstanding systems isn’t just about making things more efficient; it’s about making them work better as a whole, long-term. Without a systems mindset, solutions can be short-sighted, solving one issue while creating several new ones. Systems thinking prevents this by keeping the bigger picture in focus. In an increasingly complex world, the ability to step back, recognize patterns, and optimize for the bigger picture is what separates quick fixes from long-lasting solutions."
+  },
+  {
+    "objectID": "interests.html#energy-systems",
+    "href": "interests.html#energy-systems",
+    "title": "Interests",
+    "section": "Energy Systems",
+    "text": "Energy Systems\nEnergy is everywhere. It moves our bodies, fuels our machines, and powers our cities. But energy itself doesn’t appear or disappear—it transforms. This is the foundation of thermodynamics, the study of how energy moves and changes forms.\nAt its core is the conservation of energy, which states that energy cannot be created or destroyed, only converted. Whether in a boiling pot of water, a moving car, or a power plant, the same principle applies:\n\\[\n\\Delta E = Q - W\n\\] Expanding for all forms of energy:\n\\[\n\\Delta U + \\Delta KE + \\Delta PE = Q - W + m \\left( \\frac{P}{\\rho} \\right)\n\\]\nWhere:\n\n\\(U\\) = Internal energy (heat stored inside an object)\n\\(KE\\) = Kinetic energy (energy from movement)\n\\(PE\\) = Potential energy (energy due to position)\n\\(Q\\) = Heat transfer (energy added or removed)\n\\(W\\) = Work done (energy used to move something)\n\\(m\\) = Mass (amount of matter in the system)\n\\(P\\), \\(\\rho\\) = Fluid pressure and density (energy in flowing fluids)\n\nThese equation may look merely theoretical, but they are the blueprint for modern civilization. By understanding how energy moves, engineers have designed systems that harness it efficiently, from the simplest engines to the most advanced power grids. In fact, humans have used energy transformation to our advantage for thousands of years:\n\nFire (Chemical → Thermal Energy) – Early civilizations burned wood to cook, stay warm, and forge metal.\nSteam Engines (Chemical → Thermal → Mechanical Energy) – In the 1700s, steam engines transformed heat from burning coal into movement, powering trains and industry.\nPower Plants (Chemical → Thermal → Mechanical → Electrical Energy) – The industrial revolution introduced power plants, scaling up energy conversion to produce electricity for entire cities. Common fuels used include coal, natural gas, and uranium.\nRenewables (Wind, Solar, Hydro) – Today, we’re transitioning to energy sources that convert natural forces directly into electricity—wind turbines (Kinetic → Electrical), solar photovoltaics (Light → Electrical), and hydroelectric dams (Mechanical → Electrical Energy).\n\nEnergy is the foundation of civilization. From early fire to modern power grids, the ability to transform and distribute it efficiently has shaped history. As technology advances, the way we generate and manage energy will define the future. Improving efficiency, integrating renewables, and designing smarter grids are challenges that will impact sustainability, industry, and daily life, making energy an important and exciting fields to explore."
+  },
+  {
+    "objectID": "interests.html#electrical-grid",
+    "href": "interests.html#electrical-grid",
+    "title": "Interests",
+    "section": "Electrical Grid",
+    "text": "Electrical Grid\nAccording to the National Academy of Engineering, the number one greatest engineering achievement of the 20th century is electrification. It has enabled modern civilization, from lighting cities to powering industries, transforming nearly every aspect of daily life. Yet, over a century after its invention, the grid still operates on a rigid, century-old framework: power plants generate electricity, transmission lines carry it vast distances, and distribution networks deliver it to homes and businesses. This system has worked remarkably well—but it was built for a different era, one without widespread renewable energy or real-time analytics.\nThe challenge today is not just generating electricity, but distributing it efficiently in a rapidly changing world. Renewable energy sources like wind and solar introduce variability, requiring new approaches to maintaining a stable power supply. Climate change adds further urgency, demanding that we rethink how electricity is generated, stored, and delivered.\nAt its core, the grid is a network of interconnected subsystems, each with a crucial role:\n\nPower Generation – Energy is produced through coal, natural gas, nuclear, hydro, wind, and solar power.\nTransmission – High-voltage lines move electricity efficiently across long distances.\nDistribution – Local networks step down the voltage and deliver power to homes and businesses.\n\nFor over a century, these components have worked together to provide reliable electricity. But integrating intermittent renewables disrupts this balance, introducing complexities that traditional grid models weren’t designed for. The grid must match electricity supply with demand at every moment, but not all power sources operate the same way:\n\nBaseline power – Consistently running power plants, such as nuclear and coal, provide a steady supply of electricity.\nPeaker plants – Gas-powered plants can ramp up quickly during high demand but are expensive and inefficient to run frequently.\nIntermittent renewables– Solar and wind produce energy when nature allows, which doesn’t always align with demand.\n\nHistorically, baseline plants handled the majority of energy needs, while peaker plants filled in gaps during peak hours. But as renewables become more common, they disrupt this balance. Without better energy storage or grid flexibility, excess solar energy at noon can go to waste, while evening peaks still rely on fossil fuels.\n\n\n\nConsider the duck curve, which illustrates the challenge of solar energy integration. Midday solar generation reduces demand for traditional power plants, but as the sun sets, demand surges, requiring a steep ramp-up in generation from peaker plants. To flatten the duck, we need better energy storage, demand shifting, and grid flexibility. Otherwise, we’re left with an unstable (but appropriately named) energy challenge.\n\n\nRenewable energy generation can lead to overproduction when demand is low and shortages when demand is high. To manage this, grid operators must either curtail excess energy (wasting it) or store it for later use (which is currently limited). The goal is to flatten the duck curve by spreading out electricity demand and improving storage solutions. In other words, we need to make the grid a little less duck-shaped—because while ducks are great in ponds, they make for a pretty unstable energy system.\nA quick note on supply and demand. Every year, our demand for electricity increases (i.e. more data centers, more electric vehicles, more air conditioning), but power generation remains relatively constant. This may seem counterintuitive, but it’s largely due to energy efficiency improvements. LED lighting, smarter appliances, and improved industrial processes allow us to do more with the same amount of energy. However, even with these gains, the shift to electrified transportation and digital infrastructure means we must rethink how we scale energy production.\nTomorrow’s grid must be smarter, more flexible, and data-driven. Engineers and analysts are developing solutions such as:\n\nBattery storage – Capturing excess renewable energy for later use.\nDecentralized microgrids – Local energy networks that improve resilience.\nReal-time analytics – Predicting demand fluctuations and optimizing power flow.\nAutomated grid management – AI-driven decision-making for efficiency.\n\nThe grid may look only like infraastructure, but it is a complex dynamic system that shapes economies and societies. Transforming the grid requires balancing reliability, affordability, and sustainability. Simulating future grid scenarios with data analytics will help ensure a system that works for everyone and defines the future."
+  },
+  {
+    "objectID": "interests.html#exploratory-data-analysis",
+    "href": "interests.html#exploratory-data-analysis",
+    "title": "Interests",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\nblurb on EDA, correlations/causations too, pivots"
+  },
+  {
+    "objectID": "interests.html#machine-learning-models",
+    "href": "interests.html#machine-learning-models",
+    "title": "Interests",
+    "section": "Machine Learning Models",
+    "text": "Machine Learning Models\nblurb on models"
+  },
+  {
+    "objectID": "interests.html#regression",
+    "href": "interests.html#regression",
+    "title": "Interests",
+    "section": "Regression",
+    "text": "Regression\nblurb on regression"
+  },
+  {
+    "objectID": "interests.html#anthropology",
+    "href": "interests.html#anthropology",
+    "title": "Interests",
+    "section": "Anthropology",
+    "text": "Anthropology\nblurb on anthropology"
+  },
+  {
+    "objectID": "interests.html#sociology",
+    "href": "interests.html#sociology",
+    "title": "Interests",
+    "section": "Sociology",
+    "text": "Sociology\nblurb on sociology"
+  },
+  {
+    "objectID": "interests.html#psychology",
+    "href": "interests.html#psychology",
+    "title": "Interests",
+    "section": "Psychology",
+    "text": "Psychology\nblurb on psychology"
+  },
+  {
+    "objectID": "interests.html#philosophy",
+    "href": "interests.html#philosophy",
+    "title": "Interests",
+    "section": "Philosophy",
+    "text": "Philosophy\nblurb on philosophy"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Bridging Data, Community, and Creativity\nHey there! I’m Carina Grady—an engineer, data analyst, and community advocate who loves bringing people and ideas together. My work blends technical expertise with creative expression and civic engagement, whether I’m analyzing data to support my client projects, brainstorming ways to strengthen my city’s local businesses, or engaging in deep discussions with my local community.\nI believe data can tell powerful stories, but so can movement, words, and human connection. That’s why, outside of my work in consulting and analytics, you’ll find me immersed in the arts—writing, reading, or attending events that bring my city to life. I love a good deep-dive into analytics just as much as I love a lively dance floor or a compelling poem.\nThis site is a reflection of all those things: data, creativity, and community. Take a look around, and if something sparks an idea, let’s connect!\n\nThis site is built entirely with Quarto and R markdown! View the source code on GitHub."
+  },
+  {
+    "objectID": "portfolio-academic.html",
+    "href": "portfolio-academic.html",
+    "title": "Academic Portolfio",
+    "section": "",
+    "text": "Welcome! name, profession, purpose"
+  },
+  {
+    "objectID": "portfolio-creative.html",
+    "href": "portfolio-creative.html",
+    "title": "Creative Portfolio",
+    "section": "",
+    "text": "Welcome! name, profession, purpose"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Have a question or want to connect? Fill out the form below, and I’ll get back to you!\n\nName: \nEmail: \nMessage:\n\n\nSend Message"
+  },
+  {
+    "objectID": "portfolio-professional.html",
+    "href": "portfolio-professional.html",
+    "title": "Professional Portolfio",
+    "section": "",
+    "text": "Welcome! name, profession, purpose"
+  }
+]
